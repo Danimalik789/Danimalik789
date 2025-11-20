@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 Hi! I'm a passionate software developer focused on building scalable and fun web projects with the MERN stack. I love learning new tech, collaborating on open-source, and sharing my knowledge.
 
-- 🔥 Experienced with React, Node.js, TypeScript, MongoDB, Vite, Bootstrap5
+- 🔥 Experienced with React, Node.js, TypeScript, MongoDB, Vite, Bootstrap5, Express.js
 - 💼 Always exploring new opportunities and challenges
 - ✨ Building beautiful, fast, accessible web apps
 
@@ -34,16 +34,8 @@ Single-page site to showcase my development skills, experience, and projects.
 <img src="https://img.shields.io/badge/MongoDB-4.4-47A248?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/Vite-4.0-8000ff?style=flat-square&logo=vite" />
 <img src="https://img.shields.io/badge/Bootstrap-5-563d7c?style=flat-square&logo=bootstrap" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" />
 
----
-
-### 📊 GitHub Stats
-
-![Daniyal Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danimalik789&show_icons=true&bg_color=00000000)
-
-![Profile views](https://komarev.com/ghpvc/?username=Danimalik789&style=flat-square)
-
----
 
 ### 📫 Contact Me
 - 🌐 [Portfolio](https://daniyal-malik-portfolio.vercel.app/)
