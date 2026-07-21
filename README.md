@@ -4,7 +4,7 @@
 <p align="center">Full Stack MERN Developer</p>
 <p align="center">
   <a href="https://daniyal-malik-portfolio.vercel.app/">🌐 Portfolio</a> |
-  <a href="https://github.com/Danimalik789/daniyal-malik-portfolio">👨‍💻 Featured Project</a>
+  <a href="https://khataljazeeraauction.com">👨‍💻 Featured Project</a>
 </p>
 
 ---
