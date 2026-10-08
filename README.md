@@ -40,7 +40,7 @@ Single-page site to showcase my development skills, experience, and projects.
 ### 📫 Contact Me
 - 🌐 [Portfolio](https://daniyal-malik.vercel.app/)
 - 📬 [Email](mailto:danyalmalik789@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/danyalmalik789)
+- 💼 [LinkedIn](https://linkedin.com/in/daniyalmalik789)
 
 ---
 
